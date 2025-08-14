@@ -4,8 +4,6 @@
 [![R](https://img.shields.io/badge/R-4.3.1-blue)](https://www.r-project.org/) 
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-![banner](https://images.unsplash.com/photo-1557683316-973673baf926?fit=crop&w=1200&q=80)  
-
 이 저장소에는 서로 다른 도메인을 대상으로 한 **데이터 처리, 탐색적 분석(EDA), 모델링, 시각화** 프로젝트 3개가 포함되어 있습니다.  
 각 프로젝트는 주제와 목적은 다르지만, 공통적으로 데이터 기반 의사결정과 분석 최적화를 목표로 합니다.
 
